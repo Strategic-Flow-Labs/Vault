@@ -1,4 +1,4 @@
-# WorkOS Node.js Library
+# VaultOS Node.js Library
 
 ![npm](https://img.shields.io/npm/v/@workos-inc/node)
 [![Build Status](https://github.com/workos/workos-node/actions/workflows/ci.yml/badge.svg)](https://github.com/workos/workos-node/actions/workflows/ci.yml)
