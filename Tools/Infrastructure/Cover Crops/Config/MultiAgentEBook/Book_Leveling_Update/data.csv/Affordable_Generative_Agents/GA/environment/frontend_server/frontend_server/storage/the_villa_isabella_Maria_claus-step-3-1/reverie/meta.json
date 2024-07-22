@@ -1,0 +1,13 @@
+{
+  "fork_sim_code": "base_the_ville_isabella_maria_kard",
+  "start_date": "July 21, 2024",
+  "curr_time": "July 21, 2024, 00:00:30",
+  "sec_per_step": 10,
+  "maze_name": "the_ville",
+  "persona_names": [
+    "Isabella Rodriguez",
+    "Maria Lopez",
+    "Kard Mueller"
+  ],
+  "step": 3
+}
